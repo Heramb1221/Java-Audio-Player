@@ -31,24 +31,6 @@ Heramb's Audio Player is a simple yet functional audio player application built 
 - **Java Swing**: For building the graphical user interface (GUI).
 - **Java Sound API**: For audio playback and management.
 
-To run the project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Heramb1221/Responsive-Movie-Website.git
-   ```
-2. Navigate to the project directory:
-    ```bash
-   cd Responsive-Movie-Website
-   ```
-3. Compile the Java file (assuming you have JDK installed):
-    ```bash
-   javac Player.java
-   ```
-4. Run the application:
-    ```bash
-   java Player
-   ```
 Make sure you have audio files available on your system to test the player functionality.
 ## Usage
 - Upon launching the application, users can select an audio file by clicking the "Play" button.
