@@ -12,7 +12,6 @@
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Code Structure](#code-structure)
 - [Contributing](#contributing)
