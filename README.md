@@ -1,4 +1,4 @@
-Java Audio Player
+Desktop Audio Player Java
 =================
 
 > A desktop audio player built with Java SE, Swing, and the Java Sound API — engineered with explicit attention to EDT thread safety, native audio resource management, and JPMS module configuration.
